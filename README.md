@@ -1,0 +1,2 @@
+# FAI
+A custom programming language & Compiler backend written in pure Rust. An exercise in learning and patience as well as completely foregoing the usage of AI to aid in the developmennt process. Here I will also document my progress in learning the Rust language from scratch and building good git and communication practices to serve as a good reference for any future people to see. Progress will be slow or stagnant for periods of time and I will need to try my best to keep it up.
