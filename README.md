@@ -25,6 +25,10 @@ I am not completely stopping my usage of AI, while there are many issues with it
 # Other stuff I guess
 If this inspires you, the person reading this, thats awesome.
 
+I am writing all of this code on a Windows Machine.
+
+I am using the RustRover IDE using the [Non Commercial License](https://sales.jetbrains.com/hc/en-gb/articles/18950890312210-The-free-non-commercial-licensing-FAQ), I might make a YouTube series on my [channel](https://www.youtube.com/@xnorlabs) and might stream on my [Twitch](https://www.twitch.tv/xnorlabs).
+
 # List of References I am using
 
 Growing list of References for different parts of the learning process or other materials I find interesting.
