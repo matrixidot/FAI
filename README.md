@@ -35,12 +35,12 @@ Growing list of References for different parts of the learning process or other 
 
 My personal notes will also be committed to this repository along with relevant internet searches and forums.
 
-* [Rust Book](doc.rust-lang.org/stable/book)
-* [Rust Book, Brown Uniersity Edition](rust-book.cs.brown.edu)
-* [Rustlings](github.com/rust-lang/rustlings)
-* [Too Many Lists](rust-unofficial.github.io/too-many-lists)
-* [Crafting Interpreters](craftinginterpreters.com)
-* [Writing a C Compiler](nostarch.com/writing-c-compiler)
+* [Rust Book](https://www.doc.rust-lang.org/stable/book)
+* [Rust Book, Brown Uniersity Edition](https://www.rust-book.cs.brown.edu)
+* [Rustlings](https://www.github.com/rust-lang/rustlings)
+* [Too Many Lists](https://www.rust-unofficial.github.io/too-many-lists)
+* [Crafting Interpreters](https://www.craftinginterpreters.com)
+* [Writing a C Compiler](https://www.nostarch.com/writing-c-compiler)
 * [Cornell CS6120](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 
 
