@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["crates/*", "scratch/test_scratch"]
+members = ["crates/*", "scratch/guessing_game"]
 default-members = ["crates/*"]
 
 [workspace.package]

@@ -1,7 +1,8 @@
 [package]
-name = "test_scratch"
+name = "guessing_game"
 version = "0.1.0"
 edition.workspace = true
 license.workspace = true
 
 [dependencies]
+rand = "0.10.3"
